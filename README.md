@@ -2,10 +2,11 @@
 - 🌱 I’m currently learning Azure Certifications.
 - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-hassan)
  
+ 
+<!--
  ![Github stats](https://github-readme-stats.vercel.app/api?username=MdAbdulHassan&theme=highcontrast&show_icons=true&count_private=true)
 
 
-<!--
 **MdAbdulHassan/MdAbdulHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
